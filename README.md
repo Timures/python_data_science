@@ -39,3 +39,4 @@ We're using following parameters:
 - ```-d``` to run Docker container in background
 - ```-v notebooks:/notebooks``` to mount just created *notebooks* folder Docker inside container
 
+# brand_name_tool
